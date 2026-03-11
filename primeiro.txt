@@ -1,2 +1,3 @@
 foda.txt
 mano.txt
+dificil.txt
